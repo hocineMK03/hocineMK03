@@ -4,10 +4,10 @@
 I am hocine from algeria , and i am a computer science student at university of boumerdes ,i enjoy learning new technologies and skills related to web developement
 
 ## Skills : 
-🕸️ Express js
-⚛️ React js
-💻 Django
-🌍 HTML / CSS /JS
+* 🕸️ Express js
+* ⚛️ React js
+* 💻 Django
+* 🌍 HTML / CSS /JS
 
 
 ## Contact Me :
