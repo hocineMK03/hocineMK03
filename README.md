@@ -8,7 +8,8 @@ I am hocine from algeria , and i am a computer science student at university of 
 * ⚛️ React js
 * 💻 Django
 * 🌍 HTML / CSS /JS
-
+* ⭐ Graphic Design
+* ♟️ Problem Solving
 
 ## Links :
 ### linkedin : https://www.linkedin.com/in/mechkak-hocine-712b5b244/
