@@ -1,4 +1,5 @@
 ![I am GitHub Readme Generator's creator](https://raw.githubusercontent.com/hocineMK03/hocineMK03/main/banner.gif)
+
 # Hi there 👋, my name is Hocine
 
 I am hocine from algeria , and i am a computer science student at university of boumerdes ,i enjoy learning new technologies and skills related to web developement
@@ -20,5 +21,6 @@ I am hocine from algeria , and i am a computer science student at university of 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hocineMK03&show_icons=true)  
 
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=hocienMK03&label=VISITORS&countColor=%23263759&style=flat)](https://visitorbadge.io/status?path=hocienMK03)
 
 
