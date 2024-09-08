@@ -12,6 +12,10 @@ I am hocine from algeria , and i am a computer science student at university of 
 * ⭐ Graphic Design
 * ♟️ Problem Solving
 
+## Socials :
+* Email1 : hocine182003@gmail.com
+* Email2 :
+mechkak_hocine.fs@univ-boumerdes.dz
 ## Links :
 ### linkedin : https://www.linkedin.com/in/mechkak-hocine-712b5b244/
 ### npm : https://www.npmjs.com/settings/hocinemk/packages
