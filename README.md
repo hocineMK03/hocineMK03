@@ -17,7 +17,7 @@ I am hocine from algeria , and i am a computer science student at university of 
 * Email2 :
 mechkak_hocine.fs@univ-boumerdes.dz
 ## Links :
-### linkedin : https://www.linkedin.com/in/mechkak-hocine-712b5b244/
+### linkedin : https://www.linkedin.com/in/mechkak-hocine-arezki-712b5b244/
 ### npm : https://www.npmjs.com/settings/hocinemk/packages
 ### portfolio :https://mechkakhocine.vercel.app/
 #
