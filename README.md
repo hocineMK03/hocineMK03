@@ -2,7 +2,7 @@
 
 # Hi there 👋, my name is Hocine
 
-I am hocine from algeria , and i am a computer science student at university of boumerdes ,i enjoy learning new technologies and skills related to web developement
+I am hocine from algeria , and i am a software engineer student at university of boumerdes ,i enjoy learning new technologies and skills related to web developement and AI
 
 ## Skills : 
 * 🕸️ Express js
