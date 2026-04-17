@@ -31,7 +31,7 @@ const software_engineer = {
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Nen Abilities
 
 **Languages**
 
@@ -79,6 +79,15 @@ const software_engineer = {
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
 ---
+
+## ⚔️ Nen Affinity
+
+```text
+Backend Development   ████████████████████  Advanced    NestJS · FastAPI · Golang · Django
+Frontend Development  ████████████████████  Advanced    React · Next.js · Tailwind · HTML/CSS
+AI & Machine Learning ████████░░░░░░░░░░░░  Learning    PyTorch · TensorFlow · RAG · LLMs
+Mobile & Game Dev     ████████░░░░░░░░░░░░  Learning    In training...
+```
 
 ## 📊 GitHub Stats
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=hocienMK03&label=VISITORS&countColor=%23263759&style=flat)](https://visitorbadge.io/status?path=hocienMK03)
