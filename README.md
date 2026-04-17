@@ -108,9 +108,9 @@ const software_engineer = {
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-youremail@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-1a1a2e?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.dev)
+[![Email](https://img.shields.io/badge/Email-youremail@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hocine182003@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mechkak-hocine-arezki-712b5b244/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-1a1a2e?style=for-the-badge&logo=vercel&logoColor=white)](https://mechkak-hocine-arezki.netlify.app/)
 [![npm](https://img.shields.io/badge/npm-Packages-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~YOUR_NPM)
 
 </div>
