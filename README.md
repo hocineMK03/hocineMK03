@@ -43,6 +43,7 @@ const software_engineer = {
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=flat&logo=godotengine&logoColor=white)
 ![OCaml](https://img.shields.io/badge/OCaml-EC6813?style=flat&logo=ocaml&logoColor=white)
 
 **Backend**
