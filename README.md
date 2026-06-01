@@ -96,7 +96,7 @@ Mobile & Game Dev     ████████░░░░░░░░░░░�
 ```
 
 ## 📊 GitHub Stats
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=hocienMK03&label=VISITORS&countColor=%23263759&style=flat)](https://visitorbadge.io/status?path=hocienMK03)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=hocineMK03&label=VISITORS&countColor=%23263759&style=flat)](https://visitorbadge.io/status?path=hocineMK03)
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=hocineMK03&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="hocineMK03's GitHub Stats" />
 </p>
