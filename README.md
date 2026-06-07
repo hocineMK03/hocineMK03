@@ -110,15 +110,15 @@ Mobile & Game Dev     ████████░░░░░░░░░░░�
 
 ## 📊 GitHub Stats
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=hocineMK03&label=VISITORS&countColor=%23263759&style=flat)](https://visitorbadge.io/status?path=hocineMK03)
+
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=hocineMK03&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="hocineMK03's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=hocineMK03&theme=tokyonight&hide_border=true" alt="hocineMK03's GitHub Stats" />
 </p>
+
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=hocineMK03&theme=tokyonight&hide_border=true" alt="hocineMK03's GitHub Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hocineMK03&theme=tokyo-night&hide_border=true" alt="hocineMK03's GitHub Activity Graph" />
 </p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hocineMK03&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="hocineMK03's GitHub Stats" />
-</p>
+
 
 
 
