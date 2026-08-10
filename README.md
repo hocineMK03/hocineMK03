@@ -112,7 +112,7 @@ Mobile & Game Dev     ████████░░░░░░░░░░░�
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=hocineMK03&label=VISITORS&countColor=%23263759&style=flat)](https://visitorbadge.io/status?path=hocineMK03)
 <a href="https://gitfut.com/hocineMK03?country=dz">
-  <img src="https://gitfut.com/hocineMK03.png" width="250" alt="GitFut Profile" />
+  <img src="https://gitfut.com/hocineMK03.png?country=dz" width="200" alt="GitFut Profile" />
 </a>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=hocineMK03&theme=tokyonight&hide_border=true" alt="hocineMK03's GitHub Stats" />
