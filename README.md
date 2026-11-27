@@ -112,7 +112,7 @@ Mobile & Game Dev     ████████░░░░░░░░░░░�
 ```
 
 ## 📊 GitHub Stats
-
+[![Commit Melody for hocineMK03](https://commit-melody.hocinebuilds.dev/hocineMK03.png)](https://commit-melody.hocinebuilds.dev/u/hocineMK03)
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=hocineMK03&label=VISITORS&countColor=%23263759&style=flat)](https://visitorbadge.io/status?path=hocineMK03)
 <a href="https://gitfut.com/hocineMK03?country=dz">
   <img src="https://gitfut.com/hocineMK03.png?country=dz" width="200" alt="GitFut Profile" />
